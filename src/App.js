@@ -5,8 +5,9 @@ import Selector from "./ui/Selector";
 import SubmitButton from "./ui/SubmitButton";
 import Balance from "./ui/Balance";
 import Rate from "./ui/Rate";
-import { currencyFormatter } from "./utils";
 import SwitchButton from "./ui/SwitchButton";
+
+import { currencyFormatter } from "./utils";
 
 const fallbackRates = {
   rates: {

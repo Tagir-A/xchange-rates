@@ -2,6 +2,8 @@
 
 This app was built with [Create React App](https://github.com/facebook/create-react-app)
 Styling is done with  [tailwindcss.com](https://tailwindcss.com/)
+## Demo
+You can check the result here: https://hopeful-shockley-c9ef87.netlify.com/
 
 ## Available Scripts
 In the project directory, you can run:
